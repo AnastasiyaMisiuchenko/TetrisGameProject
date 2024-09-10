@@ -1,0 +1,31 @@
+D:\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\Projects\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+D:\Projects\Tetris\Tetris\obj\Debug\App.g.cs
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+D:\Projects\Tetris\Tetris\obj\Debug\MainWindow.baml
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris.g.resources
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\App.g.cs
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\MainWindow.baml
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.g.resources
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Debug\Tetris.pdb

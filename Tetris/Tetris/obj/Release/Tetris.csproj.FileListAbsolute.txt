@@ -1,0 +1,16 @@
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\MainWindow.g.cs
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\App.g.cs
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris_MarkupCompile.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris_MarkupCompile.lref
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\bin\Release\Tetris.exe.config
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\bin\Release\Tetris.exe
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\bin\Release\Tetris.pdb
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\MainWindow.baml
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.g.resources
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.exe
+D:\Мой диск\Projects\TETRIS\Tetris\Tetris\obj\Release\Tetris.pdb
